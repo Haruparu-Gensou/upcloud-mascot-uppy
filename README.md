@@ -1,13 +1,17 @@
-# Meet the Upcloud Mascot!
-Meet Uppy, the Upcloud mascot!
+# Meet the UpCloud Mascot!
 
-Uppy was inspired by some thread in Bluesky between Gensou/Usabon and the official Upcloud account. Here, you'll see the official assets for Uppy, which are mostly in raster. A vector version will be avaliable!
+Meet Uppy, the UpCloud mascot!
+
+Uppy was inspired by some thread in Bluesky between Gensou/Usabon and the official UpCloud account. Here, you'll see the official assets for Uppy, which are mostly in raster. A vector version will be avaliable!
 
 *Where's all the graphics?*
 They're coming soon, trust me- I mean us. 
 
+Legally speaking, Uppy is not officially endorsed by UpCloud the company! (Yet.) But they're chill and cheer the project on.
+
 # About Uppy
-Uppy is an arctic fox (in permanent winter morph) with a purple cable wrapped around her tail. (we can comfirm that Uppy is female) The way the cable is wrapped resembles the Upcloud logo.
+
+Uppy is an arctic fox (in permanent winter morph) with a purple cable wrapped around her - yes, Uppy is female - tail. The way the cable is wrapped resembles the UpCloud logo.
 
 She's very curious and playful, to say the least. Sometimes she can be a little bit credulous, but at most times, skeptical and strategic. However, she may get carried away in her thoughts and end up not coming to a conclusion.
 
