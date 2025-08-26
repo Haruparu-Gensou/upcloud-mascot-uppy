@@ -1,5 +1,5 @@
 # Meet the UpCloud Mascot!
-Meet Uppy, the "official" UpCloud mascot!
+Meet Uppy, the "official" UpCloud mascot...
 Just kidding! She's not official... yet. However, the UpCloud staff seem to like her. So we're onto a good start!
 
 Uppy was inspired by some thread in Bluesky between Gensou/Usabon and the official UpCloud account. Here, you'll see the official assets for Uppy, which are mostly in raster. A vector version will be avaliable!
