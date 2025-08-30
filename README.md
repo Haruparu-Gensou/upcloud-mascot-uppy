@@ -4,7 +4,7 @@ Just kidding! She's not official... yet. However, the UpCloud staff seem to like
 
 Uppy was inspired by some thread in Bluesky between Gensou/Usabon and the official UpCloud account. Here, you'll see the official assets for Uppy, which are mostly in raster. A vector version will be avaliable!
 
-*Where's all the graphics?*
+*Why's there so little graphics?*
 They're coming soon, trust me- I mean us. 
 
 # About Uppy
